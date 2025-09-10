@@ -2,23 +2,23 @@
 
 ## Table of Contents 📑
 
-•	## Overview 🌟
-•	## Getting Started 🚀
-    o	### Prerequisites 🛠️
-    o	### Installation 📦
-•	## Usage 🖥️
-•	## Testing 🧪
-•	## Key Note 📝
-•	## Importing the Database 💾
+## •Overview 🌟
+## •Getting Started 🚀
+### o Prerequisites 🛠️
+### oInstallation 📦
+## •Usage 🖥️
+## •Testing 🧪
+## •Key Note 📝
+##  •Importing the Database 💾
 
 ## Overview 🌐
 This project introduces the development of a CRM system with a focus on consistency and data integrity. The core features include:
 
-•	 ## Security: Features enable reliable logic systems with access management to protect data integrity 🔒
-•	## Scalability: A robust framework with current-year trends, enhancing user experience 📈
-•	## Efficiency: Includes a centralized database for data storage, accessibility, and integrity 🗃️
-•	## Modularity: Offers various modules and strict access control, providing flexibility 🔧
-•	## Deployment: Pre-built components and strict access control project setup and deployment 🚢
+##  •Security: Features enable reliable logic systems with access management to protect data integrity 🔒
+## •Scalability: A robust framework with current-year trends, enhancing user experience 📈
+## •Efficiency: Includes a centralized database for data storage, accessibility, and integrity 🗃️
+## •Modularity: Offers various modules and strict access control, providing flexibility 🔧
+## •Deployment: Pre-built components and strict access control project setup and deployment 🚢
 
 ## Getting Started 🚀
 ### Prerequisites 🛠️
@@ -29,19 +29,19 @@ This project introduces the development of a CRM system with a focus on consiste
 
 ## Installation 📦
 
-1.	### Clone the repository:
+### 1.Clone the repository:
 
         bash-
         git clone https://github.com/yourusername/CRM-CUSTOMER-RELATIONSHIP-MANAGEMENT.git
 
 
-1.	### Navigate to the project directory:
+### 1.Navigate to the project directory:
 
         bash-
         cd CRM-CUSTOMER-RELATIONSHIP-MANAGEMENT
 
 
-2.	### Install dependencies:
+### 2.Install dependencies:
 
         bash-
         composer install
